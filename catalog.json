@@ -1,0 +1,53 @@
+{
+  "Updated":"2021-04-14 @ 10:37 PM PST",
+   "Catalog":[
+      {
+         "ticker16":"NFTART.000000001",
+         "shortname32":"Memories of a SP",
+         "artist":"Alguien-00",
+         "issuer":"someAccount",
+         "fileExtension":"png",
+         "fileSizeKB":32,
+         "validationStatus":1,
+         "flags":["Test"],
+         "tags":["SuperTag"]
+      },
+      {
+         "ticker16":"MKUU.NFT00002",
+         "shortname32":"Candle in Ice",
+         "artist":"Christopher Sanborn",
+         "issuer":"To Be Filled...",
+         "fileExtension":"png",
+         "fileSizeKB":18,
+         "validationStatus":1
+      },
+      {
+         "ticker16":"MKUU.NFT00004",
+         "shortname32":"Issuance",
+         "artist":"The Creator",
+         "issuer":"To Be Filled...",
+         "fileExtension":"png",
+         "fileSizeKB":6,
+         "validationStatus":1
+      },
+      {
+         "ticker16":"MKUU.NFT00006",
+         "shortname32":"Texture 395",
+         "artist":"John Smith",
+         "issuer":"To Be Filled...",
+         "fileExtension":"png",
+         "fileSizeKB":22,
+         "validationStatus":1
+      },
+      {
+         "ticker16":"NFTART.FROMTOOL0",
+         "shortname32":"NFTART:Doodle Walk",
+         "artist":"Alguien-00",
+         "issuer":"To Be Filled",
+         "fileExtension":"png",
+         "fileSizeKB":2,
+         "validationStatus":1,
+         "tags":["Crap","Doodle"]
+      }
+   ]
+}
