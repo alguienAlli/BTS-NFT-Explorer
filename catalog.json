@@ -7,7 +7,7 @@
          "artist":"Some Ol' Artist",
          "issuer":"mtu-mkuu",
          "fileExtension":"png",
-         "fileSizeKB":"??",
+         "fileSizeKB":73,
          "validationStatus":1,
          "flags":[
             ""
@@ -37,7 +37,7 @@
          "artist":"A.R.",
          "issuer":"mtu-mkuu",
          "fileExtension":"png",
-         "fileSizeKB":"??",
+         "fileSizeKB":35,
          "validationStatus":1,
          "flags":[
             ""
@@ -92,7 +92,7 @@
          "artist":"John Q. Sample",
          "issuer":"mtu-mkuu",
          "fileExtension":"png",
-         "fileSizeKB":"??",
+         "fileSizeKB":14,
          "validationStatus":1,
          "flags":[
             ""
