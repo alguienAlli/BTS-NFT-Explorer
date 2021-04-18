@@ -1,10 +1,10 @@
 {
   "assetInfo":{
-    "testnet0":{
+    "testnet1":{
       "prestring":"http://localhost/nftexplorer/Assets/",
       "posstring":".json"
     },
-    "testnet1":{
+    "testnet0":{
       "prestring":"https://api.testnet.bitshares.ws/openexplorer/asset?asset_id=",
       "posstring":""
     }
