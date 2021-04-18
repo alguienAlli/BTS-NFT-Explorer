@@ -1,7 +1,7 @@
 {
-  "Updated":"2021-04-14 @ 10:37 PM PST",
+   "Updated":"2021-04-14 @ 10:37 PM PST",
    "Catalog":[
-     {
+      {
          "ticker16":"MKUU.NFT00003",
          "shortname32":"Just Another One",
          "artist":"Some Ol' Artist",
@@ -9,8 +9,12 @@
          "fileExtension":"png",
          "fileSizeKB":"??",
          "validationStatus":1,
-         "flags":[""],
-         "tags":[""]
+         "flags":[
+            ""
+         ],
+         "tags":[
+            ""
+         ]
       },
       {
          "ticker16":"NFTART.000000001",
@@ -20,10 +24,14 @@
          "fileExtension":"png",
          "fileSizeKB":32,
          "validationStatus":1,
-         "flags":[""],
-         "tags":[""]
+         "flags":[
+            ""
+         ],
+         "tags":[
+            ""
+         ]
       },
-     {
+      {
          "ticker16":"MKUU.PASDEUX",
          "shortname32":"Pas de Deux",
          "artist":"A.R.",
@@ -31,8 +39,12 @@
          "fileExtension":"png",
          "fileSizeKB":"??",
          "validationStatus":1,
-         "flags":[""],
-         "tags":[""]
+         "flags":[
+            ""
+         ],
+         "tags":[
+            ""
+         ]
       },
       {
          "ticker16":"MKUU.NFT00002",
@@ -69,9 +81,12 @@
          "fileExtension":"png",
          "fileSizeKB":2,
          "validationStatus":1,
-         "tags":["Crap","Doodle"]
+         "tags":[
+            "Crap",
+            "Doodle"
+         ]
       },
-     {
+      {
          "ticker16":"MKUU.TILES21",
          "shortname32":"Tiles #21",
          "artist":"John Q. Sample",
@@ -79,8 +94,12 @@
          "fileExtension":"png",
          "fileSizeKB":"??",
          "validationStatus":1,
-         "flags":[""],
-         "tags":[""]
+         "flags":[
+            ""
+         ],
+         "tags":[
+            ""
+         ]
       }
    ]
 }
