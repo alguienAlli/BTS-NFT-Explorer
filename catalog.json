@@ -220,6 +220,21 @@
          "tags":[
             ""
          ]
+      },
+      {
+         "ticker16":"NFTART.PIRATEDOG",
+         "shortname32":"The Pirate Dog",
+         "artist":"alguien-00",
+         "issuer":"alguien-00",
+         "fileExtension":"gif",
+         "fileSizeKB":68,
+         "validationStatus":1,
+         "flags":[
+            "NSFCats"
+         ],
+         "tags":[
+            "Dog","Animation"
+         ]
       }
    ]
 }
