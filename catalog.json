@@ -17,21 +17,6 @@
          ]
       },
       {
-         "ticker16":"NFTART.000000001",
-         "shortname32":"Memories of a ShitPoster",
-         "artist":"Alguien-00",
-         "issuer":"Alguien-00",
-         "fileExtension":"png",
-         "fileSizeKB":32,
-         "validationStatus":1,
-         "flags":[
-            ""
-         ],
-         "tags":[
-            ""
-         ]
-      },
-      {
          "ticker16":"MKUU.PASDEUX",
          "shortname32":"Pas de Deux",
          "artist":"A.R.",
