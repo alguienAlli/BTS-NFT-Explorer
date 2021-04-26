@@ -1,5 +1,5 @@
 {
-   "Updated":"2021-04-21",
+   "Updated":"2021-04-26",
    "Catalog":[
       {
          "ticker16":"MKUU.NFT00003",
@@ -234,6 +234,21 @@
          ],
          "tags":[
             "Dog","Animation"
+         ]
+      },
+      {
+         "ticker16":"NFTART.3DFIRESWR",
+         "shortname32":"Rekindled (3D)",
+         "artist":"Alguien-00",
+         "issuer":"Alguien-00",
+         "fileExtension":"objt",
+         "fileSizeKB":60,
+         "validationStatus":1,
+         "flags":[
+            "TESTNET"
+         ],
+         "tags":[
+            "3D, Pixelart, Medieval"
          ]
       }
    ]
