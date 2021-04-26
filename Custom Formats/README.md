@@ -1,4 +1,4 @@
-Welcome to the lacklust custom-Formats page.
+Welcome to the lackluster custom-Formats page.
 
 Find some links below...
 
