@@ -6,10 +6,9 @@ OBJ has been for long time a very useful format for 3D models, it specially shin
 
 An OBJT file is formated in the following way:
 
-First byte = unused, in the future will be used to indicate Zstd compression.
-Next 4 bytes: uint32 (.obj file byte array length)
-Next n bytes = .obj bytes.
-Next 4 bytes: uint32 (.png file array length)
-Next n bytes = .png bytes.
-
-There is a barebones objt packer somewhere in this directory.
+First byte = unused, in the future will be used to indicate Zstd compression.  
+Next 4 bytes: uint32 (.obj file byte array length)  
+Next n bytes = .obj bytes.  
+Next 4 bytes: uint32 (.png file array length)  
+Next n bytes = .png bytes.  
+  
