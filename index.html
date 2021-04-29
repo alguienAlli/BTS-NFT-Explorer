@@ -185,8 +185,40 @@ p {
         document.getElementById("unityOutputDiv").textContent = str;	
 		document.getElementById("unityOutputDiv").style.display = '';
     }
-	  
-	  console.log(window.location.href);
+	
+	//Navigator OS Detect
+	function GetOS() {
+		var userAgent = window.navigator.userAgent,
+		platform = window.navigator.platform.toLowerCase(),
+		macosPlatforms = ['macintosh', 'macintel', 'macppc', 'mac68k'],
+		windowsPlatforms = ['win32', 'win64', 'windows', 'wince', 'win16'],
+		iosPlatforms = ['iphone', 'ipad', 'ipod'],
+		os = "";//null;
+
+		if (macosPlatforms.includes(platform)) {
+			os = 'Mac';
+		} else if (iosPlatforms.includes(platform)) {
+			os = 'iOS';
+		} else if (windowsPlatforms.includes(platform)) {
+			os = 'Windows';
+		} else if (/Android/.test(userAgent)) {
+			os = 'Android';
+		} else if (!os && /Linux/.test(platform)) {
+			os = 'Linux';
+		}
+
+		return os;
+	}
+
+	function GetUserInput(defaultStr)
+	{
+		var retstr = window.prompt("Input Asset Symbol (16char max)",defaultStr);
+		
+		if(!retstr)
+			retstr = defaultStr;
+		
+		return retstr;
+	}
   </script>
 
 </html>
