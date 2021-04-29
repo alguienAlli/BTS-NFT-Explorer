@@ -1,0 +1,113 @@
+{
+   "Updated":"2021-04-28",
+   "Catalog":[
+     {
+        "ticker16":"NFTART.3DFIRESWR",
+        "shortname32":"Rekindled (3D)",
+        "artist":"Alguien-00",
+        "issuer":"Alguien-00",
+        "fileExtension":"objt",
+        "fileSizeKB":60,
+        "validationStatus":1,
+        "flags":[
+           "TESTNET"
+        ],
+        "tags":[
+           "3D, Pixelart, Medieval"
+        ]
+     },
+     {
+       "ticker16":"MKUU.NFT00002",
+        "shortname32":"Candle in Ice",
+        "artist":"Christopher Sanborn",
+        "issuer":"mtu-mkuu",
+        "fileExtension":"png",
+        "fileSizeKB":13,
+        "validationStatus":1
+     },
+     {
+       "ticker16":"REDBAR.NFT010",
+       "shortname32":"TestGif04",
+       "artist":"iamredbar",
+       "issuer":"iamredbar1-witness",
+       "fileExtension":"gif",
+       "fileSizeKB":17,
+       "validationStatus":1,
+       "flags":[
+          ""
+       ],
+       "tags":[
+          ""
+       ]
+      },
+      {
+         "ticker16":"NFTART.PIRATEDOG",
+         "shortname32":"The Pirate Dog",
+         "artist":"alguien-00",
+         "issuer":"alguien-00",
+         "fileExtension":"gif",
+         "fileSizeKB":68,
+         "validationStatus":1,
+         "flags":[
+            "NSFCats"
+         ],
+         "tags":[
+            "Dog","Animation"
+         ]
+      },
+      {
+        "ticker16":"MKUU.PASDEUX",
+        "shortname32":"Pas de Deux",
+        "artist":"A.R.",
+        "issuer":"mtu-mkuu",
+        "fileExtension":"png",
+        "fileSizeKB":26,
+        "validationStatus":1,
+        "flags":[
+           ""
+        ],
+        "tags":[
+           ""
+        ]
+     },
+     {
+         "ticker16":"MKUU.NFT00004",
+         "shortname32":"Issuance",
+         "artist":"The Creator",
+         "issuer":"mtu-mkuu",
+         "fileExtension":"png",
+         "fileSizeKB":4,
+         "validationStatus":1
+      },
+      {
+        "ticker16":"MKUU.NFT00003",
+        "shortname32":"Just Another One",
+        "artist":"Some Ol' Artist",
+        "issuer":"mtu-mkuu",
+        "fileExtension":"png",
+        "fileSizeKB":55,
+        "validationStatus":1,
+        "flags":[
+           ""
+        ],
+        "tags":[
+           ""
+        ]
+      },
+      {
+         "ticker16":"MKUU.TILES21",
+         "shortname32":"Tiles #21",
+         "artist":"John Q. Sample",
+         "issuer":"mtu-mkuu",
+         "fileExtension":"png",
+         "fileSizeKB":11,
+         "validationStatus":1,
+         "flags":[
+            ""
+         ],
+         "tags":[
+            ""
+         ]
+      }
+    ]
+}
