@@ -242,13 +242,28 @@
          "artist":"Alguien-00",
          "issuer":"Alguien-00",
          "fileExtension":"objt",
-         "fileSizeKB":60,
+         "fileSizeKB":79,
          "validationStatus":1,
          "flags":[
             "TESTNET"
          ],
          "tags":[
             "3D, Pixelart, Medieval"
+         ]
+      },
+      {
+         "ticker16":"NFTART.3DWOODAXE",
+         "shortname32":"Axe in the Woods (3D)",
+         "artist":"Alguien-00",
+         "issuer":"Alguien-00",
+         "fileExtension":"objt",
+         "fileSizeKB":57,
+         "validationStatus":1,
+         "flags":[
+            "TESTNET"
+         ],
+         "tags":[
+            "3D, Pixelart, Nature, Tools"
          ]
       }
    ]
