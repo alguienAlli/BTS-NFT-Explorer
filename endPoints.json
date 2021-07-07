@@ -7,6 +7,10 @@
     "testnet0":{
       "prestring":"https://api.testnet.bitshares.ws/openexplorer/asset?asset_id=",
       "posstring":""
+    },
+    "mainnet0":{
+      "prestring":"https://api.bitshares.ws/openexplorer/asset?asset_id=",
+      "posstring":""
     }
   }
 }
