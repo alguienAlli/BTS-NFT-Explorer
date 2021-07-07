@@ -1,6 +1,6 @@
 {
-   "Updated":"2021-04-26",
-   "Catalog":[
+   "Updated":"2021-07-07",
+   "Catalog_TESTNET":[
       {
          "ticker16":"MKUU.NFT00003",
          "shortname32":"Just Another One",
@@ -266,5 +266,37 @@
             "3D, Pixelart, Nature, Tools"
          ]
       }
-   ]
+   ],
+    "Catalog_MAINNET":[
+      {
+         "ticker16":"NFTEA.F3",
+         "shortname32":"F3",
+         "artist":"nft.artist",
+         "issuer":"nftprofessional1",
+         "fileExtension":"png",
+         "fileSizeKB":13,
+         "validationStatus":1,
+         "flags":[
+            ""
+         ],
+         "tags":[
+            "Fine, Meme, Finance"
+         ]
+      },
+      {
+        "ticker16":"ARTCASA.ICECANDL",
+         "shortname32":"Candle in Ice",
+         "artist":"Christopher J.Sanborn",
+         "issuer":"artcasa-fine",
+         "fileExtension":"png",
+         "fileSizeKB":13,
+         "validationStatus":1,
+         "flags":[
+            ""
+         ],
+         "tags":[
+            ""
+         ]
+      }
+     ]
 }
